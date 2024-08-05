@@ -1,9 +1,10 @@
+import Lesson18 from "./lessons/Lessons18/Lessons18"
 
 
 const App = () => {
   return (
     <>
-      My first react redux project
+      <Lesson18 />
     </>
   )
 }
